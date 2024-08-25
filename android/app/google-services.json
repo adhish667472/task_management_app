@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132616724746",
+    "project_id": "dwit-project",
+    "storage_bucket": "dwit-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132616724746:android:351d08db5b51c94d3fdaf3",
+        "android_client_info": {
+          "package_name": "com.example.task_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTgYs03EqBgTe-eQYAagVYMSm-pUNr8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
